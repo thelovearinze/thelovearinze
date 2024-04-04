@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, I am Love, fondly called LA (my initials lol, because some people find it weird calling me Love).<br><br>I am a Network Engineer 👩🏽‍💻 and a Digital Creator.<br><br>I am passionate about learning, evolving into the best version of myself.<br><br>I am currently working as a cloud network engineer, where I specialize in designing and deploying scalable and efficient cloud solutions, while leveraging automation to streamline processes.<br><br>💬 Ask me about: Powershell Scripting, Network Engineering, Cloud Security.<br><br>🌱 I’m currently learning more about Python and Infrastructure As Code.<br><br>📫 How to reach me: You can find me on Twitter, LinkedIn, or Instagram. <br><br>Fun fact: I began my career as a model before transitioning into tech. I’m passionate about beauty and skincare, and I’m also an avid gamer💛</p>
+<p align="left">Fondly called LA (my initials lol, because some people find it weird calling me Love).<br><br>I am a Network Engineer 👩🏽‍💻 and a Digital Creator.<br><br>I am passionate about learning, evolving into the best version of myself.<br><br>I am currently working as a cloud network engineer, where I specialize in designing and deploying scalable and efficient cloud solutions, while leveraging automation to streamline processes.<br><br>💬 Ask me about: Powershell Scripting, Network Engineering, Cloud Security.<br><br>🌱 I’m currently learning more about Python and Infrastructure As Code.<br><br>📫 How to reach me: You can find me on Twitter, LinkedIn, or Instagram. <br><br>Fun fact: I began my career as a model before transitioning into tech. I’m passionate about beauty and skincare, and I’m also an avid gamer💛</p>
 
 ###
 
