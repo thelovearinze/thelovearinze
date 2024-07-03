@@ -53,8 +53,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thelovearinze&label=Profile%20views&color=0e75b6&style=flat" alt="thelovearinze" /> </p>
 
 ###
+
