@@ -39,12 +39,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelovearinze&show_icons=true&locale=en&layout=compact" alt="thelovearinze" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelovearinze&show_icons=true&locale=en" alt="thelovearinze" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelovearinze&" alt="thelovearinze" /></p>
+
 
 ###
 
