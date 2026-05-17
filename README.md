@@ -44,13 +44,13 @@ BGP • OSPF • TCP/IP • NAT • MPLS • SD-WAN • IPv4 • IPv6 • Firewa
 Docker • Amazon EKS • Linux • CI/CD
 </p>
 
-<h4 align="left">🤖 Automation & Scripting</h4>
+<h4 align="left">Automation & Scripting</h4>
 
 <p align="left">
 Python • Bash • PowerShell • Terraform • YAML • JSON
 </p>
 
-<h4 align="left">📊 Monitoring & Troubleshooting</h4>
+<h4 align="left">Monitoring & Troubleshooting</h4>
 
 <p align="left">
 Wireshark • Fiddler • Network Monitor • Grafana • Prometheus
@@ -58,7 +58,7 @@ Wireshark • Fiddler • Network Monitor • Grafana • Prometheus
 
 ---
 
-<h3 align="left">🌍 Community & Writing</h3>
+<h3 align="left">Community & Writing</h3>
 
 <p align="left">
 I write about cloud networking, infrastructure engineering, troubleshooting, and career growth in tech.<br><br>
@@ -70,7 +70,7 @@ You can find my content on
 
 ---
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">Language and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
@@ -99,7 +99,7 @@ You can find my content on
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelovearinze&show_icons=true&locale=en&layout=compact" alt="thelovearinze" />
