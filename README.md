@@ -1,9 +1,5 @@
 <h1 align="center">Hi! My name is Love Arinze 💕</h1>
 
-<p align="center">
-Cloud Network Engineer  
-</p>
-
 ---
 
 <h3 align="left">👩‍💻 About Me</h3>
