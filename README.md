@@ -24,21 +24,21 @@ Fun fact: I began my career as a model before transitioning into tech. I’m als
 
 ---
 
-<h3 align="left">🛠 Technologies & Tools</h3>
+<h3 align="left">Technologies & Tools</h3>
 
-<h4 align="left">☁️ Cloud & Infrastructure</h4>
+<h4 align="left">Cloud & Infrastructure</h4>
 
 <p align="left">
 AWS • Azure • Terraform • CloudFormation • VPC • VPN • DNS • Load Balancers • Hybrid Connectivity
 </p>
 
-<h4 align="left">🌐 Networking</h4>
+<h4 align="left">Networking</h4>
 
 <p align="left">
 BGP • OSPF • TCP/IP • NAT • MPLS • SD-WAN • IPv4 • IPv6 • Firewalls • Routing & Switching
 </p>
 
-<h4 align="left">⚙️ Containers & Platform Engineering</h4>
+<h4 align="left"> Containers & Platform Engineering</h4>
 
 <p align="left">
 Docker • Amazon EKS • Linux • CI/CD
