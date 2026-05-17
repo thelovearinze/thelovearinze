@@ -1,7 +1,7 @@
 <h1 align="center">Hi! My name is Love Arinze 💕</h1>
 
 <p align="center">
-Cloud Network Engineer • Infrastructure Enthusiast • Digital Creator
+Cloud Network Engineer  
 </p>
 
 ---
