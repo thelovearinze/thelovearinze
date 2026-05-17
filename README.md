@@ -1,7 +1,5 @@
 <h1 align="center">Hi! My name is Love Arinze 💕</h1>
 
----
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
