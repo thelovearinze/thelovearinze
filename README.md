@@ -1,6 +1,6 @@
 <p align="left">
   
-Hi! I'm Love Arinze 💕 
+Hi! I'm Love Arinze  💕 
 
 Fondly called LA, I’m a Cloud Network Engineer with experience across AWS, Azure, network automation, and large-scale infrastructure operations.
 
