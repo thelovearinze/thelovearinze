@@ -12,8 +12,6 @@ I enjoy solving connectivity problems, building hands-on labs, and turning compl
 💛 Fun fact: I started as a model before moving into tech.
 </p>
 
-<h3 align="left">Community & Writing</h3>
-
 <p align="left">
 I write about cloud networking, infrastructure engineering, troubleshooting, and career growth in tech.<br>
 <a href="https://medium.com/@thelovearinze" target="_blank">Medium</a> | <a href="https://dev.to/lovearinze" target="_blank">Dev.to</a>
