@@ -1,7 +1,5 @@
-
-<h3 align="left">👩‍💻 About Me</h3>
-
 <p align="left">
+  
 Hi! I'm Love Arinze 💕 Fondly called LA, I’m a Cloud Network Engineer with experience across AWS, Azure, network automation, and large-scale infrastructure operations.
 
 I enjoy solving connectivity problems, building hands-on labs, and turning complex engineering ideas into practical knowledge.
