@@ -12,12 +12,6 @@ I enjoy solving connectivity problems, building hands-on labs, and turning compl
 💛 Fun fact: I started as a model before moving into tech.
 </p>
 
-<h3 align="left">Technologies & Tools</h3>
-
-<p align="left">
-AWS • Azure • Terraform • CloudFormation • VPN • DNS • Load Balancers • BGP • OSPF • Docker • EKS • Linux • Python • Bash • PowerShell • Wireshark
-</p>
-
 <h3 align="left">Community & Writing</h3>
 
 <p align="left">
